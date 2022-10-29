@@ -1,8 +1,8 @@
-### Olá, sou o Lucas André! 👋
+### Hi, my name is Lucas André! 👋
 
-- 🔭 Atualmente estou estudando Sistemas de Informação na UVV!
-- 🌱 Estudando Java!
-- 😄 Pronomes: ele/dele
+- 🔭 Atually i am studying "Sistemas de informação" on UVV(Vila Velha University)!
+- 🌱 I am studying Java and bootstrap interests me!
+- 😄 Pronouns: he/his
         
 
 <div align="center">
