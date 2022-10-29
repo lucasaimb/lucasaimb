@@ -1,8 +1,8 @@
 ### Olá, sou o Lucas André! 👋
 
-- 🔭 Atualmente estou estudando e disponivel para trabalhar!
+- 🔭 Atualmente estou estudando Sistemas de Informação na UVV!
 - 🌱 Estudando Java!
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
         
 
 <div align="center">
