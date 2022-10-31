@@ -1,6 +1,6 @@
 ### Hi, my name is Lucas André! 👋
 
-- 🔭 Atually i am studying "Sistemas de informação" on UVV(Vila Velha University)!
+- 🔭 Currently studying "Sistemas de informação" on UVV(Vila Velha University)!
 - 🌱 I am studying Java and bootstrap interests me!
 - 😄 Pronouns: he/his
         
